@@ -69,6 +69,7 @@ Upon completion of this assignment, students will be able to:
 *   Define and apply Kubernetes **Deployment manifests** for containerised applications.
 *   Expose applications via **ClusterIP** (internal) service.
 *   Share screenshots of the deployed pod, services, and curl request.
+*   Add these screenshots to the `SubmissionImages` folder in the repository.
 
 ## Bonus Tips
 
